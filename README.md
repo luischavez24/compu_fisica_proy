@@ -1,6 +1,7 @@
-# compufisica-spa
+# Proyecto de Computación Fisica
+## Single Page Application
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
@@ -14,16 +15,10 @@ npm run serve
 ```
 npm run build
 ```
+## Python Scripts
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Folder Structure
+  - Main Folder
+    - webcam
+    - takephotos.sh
+    - raspberry.firebase.py
